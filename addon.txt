@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "[Studio FCS] Multi Character System"
+	"author_name" "Studio FCS [Jo57430]"
+	"info" "{ 	"description": "Multi Character System", 	"type": "tool", 	"tags": [ 		"realism", 		"roleplay" 	] }"
+}
